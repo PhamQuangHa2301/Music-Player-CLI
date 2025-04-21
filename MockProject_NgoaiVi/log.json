@@ -1,0 +1,27 @@
+{
+    "mediaLibrary": [
+        "/home/quangha/PhamQuangHa/Code/Music/Chua Hoan Chinh.mp3",
+        "/home/quangha/PhamQuangHa/Code/Music/Mat Ket Noi.mp3",
+        "/home/quangha/PhamQuangHa/Code/Music/Su Nghiep Chuong.mp3",
+        "/home/quangha/PhamQuangHa/Code/Music/Vinflow.mp3",
+        "/home/quangha/PhamQuangHa/Code/Music/Too Bad.mp3",
+        "/home/quangha/PhamQuangHa/Code/Music/Ngua o.mp3",
+        "/home/quangha/PhamQuangHa/Code/Music/Em iu.mp3"
+    ],
+    "playlist": {
+        "mediaFile": [
+            "/home/quangha/PhamQuangHa/Code/Music/Chua Hoan Chinh.mp3",
+            "/home/quangha/PhamQuangHa/Code/Music/Mat Ket Noi.mp3",
+            "/home/quangha/PhamQuangHa/Code/Music/Su Nghiep Chuong.mp3",
+            "/home/quangha/PhamQuangHa/Code/Music/Vinflow.mp3",
+            "/home/quangha/PhamQuangHa/Code/Music/Too Bad.mp3",
+            "/home/quangha/PhamQuangHa/Code/Music/Ngua o.mp3",
+            "/home/quangha/PhamQuangHa/Code/Music/Em iu.mp3"
+        ],
+        "test": [
+            "/home/quangha/PhamQuangHa/Code/Music/Chua Hoan Chinh.mp3",
+            "/home/quangha/PhamQuangHa/Code/Music/Vinflow.mp3",
+            "/home/quangha/PhamQuangHa/Code/Music/Too Bad.mp3"
+        ]
+    }
+}
